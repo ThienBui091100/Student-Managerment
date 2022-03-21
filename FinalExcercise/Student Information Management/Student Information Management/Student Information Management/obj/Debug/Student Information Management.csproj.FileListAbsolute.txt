@@ -1,0 +1,125 @@
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\bin\Debug\Student Information Management.exe.config
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\bin\Debug\Student Information Management.exe
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\bin\Debug\Student Information Management.pdb
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csprojAssemblyReference.cache
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\MainWindow.g.cs
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\App.g.cs
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\Student Information Management_MarkupCompile.cache
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\Student Information Management_MarkupCompile.lref
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\MainWindow.baml
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\Student Information Management.g.resources
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\Student_Information_Management.Properties.Resources.resources
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.GenerateResource.cache
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.CoreCompileInputs.cache
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\Student Information Management.exe
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\Student Information Management.pdb
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\NewStudent.g.cs
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\NewStudent.baml
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\bin\Debug\MaterialDesignColors.dll
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\bin\Debug\MaterialDesignColors.pdb
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.CopyComplete
+D:\Users\KLK\OneDrive\Documents\GitHub\WindowsProgrammingExcercises\Student Information Management\Student Information Management\obj\Debug\App.baml
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\bin\Debug\Student Information Management.exe.config
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\bin\Debug\Student Information Management.exe
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\bin\Debug\Student Information Management.pdb
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\bin\Debug\MaterialDesignColors.dll
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\bin\Debug\MaterialDesignColors.pdb
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csprojAssemblyReference.cache
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\MainWindow.g.cs
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\NewStudent.g.cs
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\App.g.cs
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\Student Information Management_MarkupCompile.cache
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\Student Information Management_MarkupCompile.lref
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\MainWindow.baml
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\NewStudent.baml
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\Student Information Management.g.resources
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\Student_Information_Management.Properties.Resources.resources
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.GenerateResource.cache
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.CoreCompileInputs.cache
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.CopyComplete
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\Student Information Management.exe
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\Student Information Management.pdb
+C:\Users\HTM\Desktop\Student Information Management\Student Information Management\obj\Debug\App.baml
+D:\Student Information Management\Student Information Management\bin\Debug\Student Information Management.exe.config
+D:\Student Information Management\Student Information Management\bin\Debug\Student Information Management.exe
+D:\Student Information Management\Student Information Management\bin\Debug\Student Information Management.pdb
+D:\Student Information Management\Student Information Management\bin\Debug\MaterialDesignColors.dll
+D:\Student Information Management\Student Information Management\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Student Information Management\Student Information Management\bin\Debug\MaterialDesignColors.pdb
+D:\Student Information Management\Student Information Management\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Student Information Management\Student Information Management\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csprojAssemblyReference.cache
+D:\Student Information Management\Student Information Management\obj\Debug\MainWindow.g.cs
+D:\Student Information Management\Student Information Management\obj\Debug\NewStudent.g.cs
+D:\Student Information Management\Student Information Management\obj\Debug\App.g.cs
+D:\Student Information Management\Student Information Management\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Student Information Management\Student Information Management\obj\Debug\Student Information Management_MarkupCompile.cache
+D:\Student Information Management\Student Information Management\obj\Debug\Student Information Management_MarkupCompile.lref
+D:\Student Information Management\Student Information Management\obj\Debug\App.baml
+D:\Student Information Management\Student Information Management\obj\Debug\MainWindow.baml
+D:\Student Information Management\Student Information Management\obj\Debug\NewStudent.baml
+D:\Student Information Management\Student Information Management\obj\Debug\Student Information Management.g.resources
+D:\Student Information Management\Student Information Management\obj\Debug\Student_Information_Management.Properties.Resources.resources
+D:\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.GenerateResource.cache
+D:\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.CoreCompileInputs.cache
+D:\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.CopyComplete
+D:\Student Information Management\Student Information Management\obj\Debug\Student Information Management.exe
+D:\Student Information Management\Student Information Management\obj\Debug\Student Information Management.pdb
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\bin\Debug\Student Information Management.exe.config
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\bin\Debug\Student Information Management.exe
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\bin\Debug\Student Information Management.pdb
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\bin\Debug\MaterialDesignColors.dll
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\bin\Debug\MaterialDesignColors.pdb
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csprojAssemblyReference.cache
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\MainWindow.g.cs
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\NewStudent.g.cs
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\App.g.cs
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\Student Information Management_MarkupCompile.cache
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\Student Information Management_MarkupCompile.lref
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\App.baml
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\MainWindow.baml
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\NewStudent.baml
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\Student Information Management.g.resources
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\Student_Information_Management.Properties.Resources.resources
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.GenerateResource.cache
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.CoreCompileInputs.cache
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.CopyComplete
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\Student Information Management.exe
+C:\Users\thien\Desktop\Student Information Management (1)\Student Information Management\Student Information Management\obj\Debug\Student Information Management.pdb
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\bin\Debug\Student Information Management.exe.config
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\bin\Debug\Student Information Management.exe
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\bin\Debug\Student Information Management.pdb
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\bin\Debug\MaterialDesignColors.dll
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\bin\Debug\MaterialDesignColors.pdb
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csprojAssemblyReference.cache
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\MainWindow.g.cs
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\NewStudent.g.cs
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\App.g.cs
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\Student Information Management_MarkupCompile.cache
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\Student Information Management_MarkupCompile.lref
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\App.baml
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\MainWindow.baml
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\NewStudent.baml
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\Student Information Management.g.resources
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\Student_Information_Management.Properties.Resources.resources
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.GenerateResource.cache
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.CoreCompileInputs.cache
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.CopyComplete
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\Student Information Management.exe
+C:\Users\thien\Desktop\Student Information Management\Student Information Management\Student Information Management\obj\Debug\Student Information Management.pdb
